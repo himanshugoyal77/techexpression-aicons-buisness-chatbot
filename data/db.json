@@ -1,0 +1,123 @@
+[
+  {
+    "Transaction ID": 10001,
+    "Date": "2024-01-01",
+    "Product Category": "Electronics",
+    "Product Name": "iPhone 14 Pro",
+    "Units Sold": 2,
+    "Unit Price": 999.99,
+    "Total Revenue": 1999.98,
+    "Region": "North America",
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Transaction ID": 10002,
+    "Date": "2024-01-02",
+    "Product Category": "Home Appliances",
+    "Product Name": "Dyson V11 Vacuum",
+    "Units Sold": 1,
+    "Unit Price": 499.99,
+    "Total Revenue": 499.99,
+    "Region": "Europe",
+    "Payment Method": "PayPal"
+  },
+  {
+    "Transaction ID": 10003,
+    "Date": "2024-01-03",
+    "Product Category": "Clothing",
+    "Product Name": "Levi's 501 Jeans",
+    "Units Sold": 3,
+    "Unit Price": 69.99,
+    "Total Revenue": 209.97,
+    "Region": "Asia",
+    "Payment Method": "Debit Card"
+  },
+  {
+    "Transaction ID": 10004,
+    "Date": "2024-01-04",
+    "Product Category": "Books",
+    "Product Name": "The Da Vinci Code",
+    "Units Sold": 4,
+    "Unit Price": 15.99,
+    "Total Revenue": 63.96,
+    "Region": "North America",
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Transaction ID": 10005,
+    "Date": "2024-01-05",
+    "Product Category": "Beauty Products",
+    "Product Name": "Neutrogena Skincare Set",
+    "Units Sold": 1,
+    "Unit Price": 89.99,
+    "Total Revenue": 89.99,
+    "Region": "Europe",
+    "Payment Method": "PayPal"
+  },
+  {
+    "Transaction ID": 10006,
+    "Date": "2024-01-06",
+    "Product Category": "Sports",
+    "Product Name": "Wilson Evolution Basketball",
+    "Units Sold": 5,
+    "Unit Price": 29.99,
+    "Total Revenue": 149.95,
+    "Region": "Asia",
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Transaction ID": 10007,
+    "Date": "2024-01-07",
+    "Product Category": "Electronics",
+    "Product Name": "MacBook Pro 16-inch",
+    "Units Sold": 1,
+    "Unit Price": 2499.99,
+    "Total Revenue": 2499.99,
+    "Region": "North America",
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Transaction ID": 10008,
+    "Date": "2024-01-08",
+    "Product Category": "Home Appliances",
+    "Product Name": "Blueair Classic 480i",
+    "Units Sold": 2,
+    "Unit Price": 599.99,
+    "Total Revenue": 1199.98,
+    "Region": "Europe",
+    "Payment Method": "PayPal"
+  },
+  {
+    "Transaction ID": 10009,
+    "Date": "2024-01-09",
+    "Product Category": "Clothing",
+    "Product Name": "Nike Air Force 1",
+    "Units Sold": 6,
+    "Unit Price": 89.99,
+    "Total Revenue": 539.94,
+    "Region": "Asia",
+    "Payment Method": "Debit Card"
+  },
+  {
+    "Transaction ID": 10010,
+    "Date": "2024-01-10",
+    "Product Category": "Books",
+    "Product Name": "Dune by Frank Herbert",
+    "Units Sold": 2,
+    "Unit Price": 25.99,
+    "Total Revenue": 51.98,
+    "Region": "North America",
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Transaction ID": 10011,
+    "Date": "2024-01-11",
+    "Product Category": "Beauty Products",
+    "Product Name": "Chanel No. 5 Perfume",
+    "Units Sold": 1,
+    "Unit Price": 129.99,
+    "Total Revenue": 129.99,
+    "Region": "Europe",
+    "Payment Method": "PayPal"
+  }
+]

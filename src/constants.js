@@ -1,0 +1,1 @@
+const bg = "#F5F5F5"
